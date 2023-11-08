@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313071550545",
+    "project_id": "policefeedback",
+    "storage_bucket": "policefeedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313071550545:android:ea5b11cc757bbd49b47870",
+        "android_client_info": {
+          "package_name": "com.example.policefeedback"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApydLsr2rzUeaqj-08kW7lHFCskSmIq2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
