@@ -28,14 +28,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
       ),
-      home: registartion(
-          //police
-          //police@gmail.com
-          //police100
-          //user
-          //user@gmail.com
-          //user123
-          ),
+      home: registartion(),
     );
   }
 }
